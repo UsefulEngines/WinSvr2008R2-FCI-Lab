@@ -1,0 +1,3 @@
+a number of steps:
+- md c:\newinstall
+- copy *.* c:\newinstall
